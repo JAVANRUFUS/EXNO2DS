@@ -1,4 +1,4 @@
-![17](https://github.com/user-attachments/assets/8eb5bc18-1d36-4a72-97a4-204c5655cab1)
+
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
